@@ -1,14 +1,9 @@
 ## Olá, me chamo Lorena Toscano!
 
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Trabalhando com Desenvolvimento Frontend em React
+- 🎓 Cursando Tecnologia da Informação na UFRN
+- 🌱 Aprendendo mais sobre a stack React + TypeScript e tudo que der na telha
+- 💬 Sinta-se à vontade para me mandar uma mensagem nas redes abaixo:
 
 
 <div>
@@ -41,8 +36,6 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-  ![Snake animation](https://github.com/lorenatoscano/lorenatoscano/blob/output/github-contribution-grid-snake.svg)
 </div>
-  
-##
+
+![Snake animation](https://github.com/lorenatoscano/lorenatoscano/blob/output/github-contribution-grid-snake.svg)
