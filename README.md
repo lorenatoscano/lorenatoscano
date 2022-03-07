@@ -6,6 +6,7 @@
 - 💬 Sinta-se à vontade para me mandar uma mensagem nas redes abaixo:
 
 
+
 <div>
   <a href = "mailto:luizalorena8@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-282a36?style=for-the-badge&logo=gmail&logoColor=dd6387" target="_blank">
@@ -16,6 +17,21 @@
   <a href="https://instagram.com/llorenatoscano" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-282a36?style=for-the-badge&logo=instagram&logoColor=dd6387" target="_blank">
   </a>
+</div>
+
+### Tecnologias que possuo afinidade:
+
+<div>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-282a36?style=for-the-badge&logo=html5&logoColor=E34F26" target="_blank">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-282a36?style=for-the-badge&logo=css3&logoColor=1572B6" target="_blank">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-282a36?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-282a36?style=for-the-badge&logo=typescript&logoColor=007ACC" target="_blank">
+  <img alt="React" src="https://img.shields.io/badge/React-282a36?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank">
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-282a36?style=for-the-badge&logo=vue.js&logoColor=4FC08D" target="_blank">
+  <img alt="Python" src="https://img.shields.io/badge/Python-282a36?style=for-the-badge&logo=python&logoColor=3776AB" target="_blank">
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-282a36?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" target="_blank">
+
+  
 </div>
 
 &nbsp;
